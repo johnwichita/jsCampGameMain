@@ -95,3 +95,6 @@ function drawBricks(){
         for
     }
 }
+
+
+/* John's code below testing */
