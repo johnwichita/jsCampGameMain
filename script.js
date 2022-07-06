@@ -97,4 +97,3 @@ function drawBricks(){
 }
 
 // Nicole Koch
-//Test
